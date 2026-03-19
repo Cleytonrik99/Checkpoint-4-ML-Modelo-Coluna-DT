@@ -23,11 +23,12 @@ Antes de iniciar, verifique se você possui:
 
 ## Etapa 1 - Clonar o repositório
 
-- Copie o link deste repositório
+- Aqui neste repositório no git hub, clique no botão verde escrito "<> Code"
+- Copie o link no pop-up que irá aparecer em seguida
 - Abra o terminal do seu Sistema Operacional
 - Digite o seguinte código:
 ```bash
-git clone [Link do Repositório]
+git clone [Cole aqui o link do repositório]
 ```
 
 Isso irá realizar o download do repositório no seu computador.
